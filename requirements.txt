@@ -1,0 +1,11 @@
+torch 
+torchvision 
+torchaudio
+transformers 
+bitsandbytes 
+accelerate 
+peft 
+datasets 
+sentencepiece
+fastapi 
+uvicorn
